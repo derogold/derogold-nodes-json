@@ -1,0 +1,16 @@
+{
+  "nodes": [
+    {
+      "name": "'CuvéeDeGoARM Node' public node",
+      "url": "publicnode.ydns.eu",
+      "port": 6969,
+      "ssl": false
+    },
+    {
+      "name": "your-node-example-name",
+      "url": "your-node-url",
+      "port": 6969,
+      "ssl": false
+    },
+  ]
+}
