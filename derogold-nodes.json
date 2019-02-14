@@ -7,8 +7,20 @@
       "ssl": false
     },
     {
-      "name": "your-node-example-name",
-      "url": "your-node-url",
+      "name": "Stroppy's node",
+      "url": "dego-stroppy.ddns.net",
+      "port": 6969,
+      "ssl": false
+    },
+    {
+      "name": "Aluisyo's node",
+      "url": "23.96.93.180",
+      "port": 6969,
+      "ssl": false
+    },
+    {
+      "name": "CapEtn's node",
+      "url": "51.255.209.200",
       "port": 6969,
       "ssl": false
     },
