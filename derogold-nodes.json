@@ -23,6 +23,12 @@
       "url": "51.255.209.200",
       "port": 6969,
       "ssl": false
+    },
+    {
+      "name": "CuvéeDego Node UK",
+      "url": "77.68.90.230",
+      "port": 6969,
+      "ssl": false
     }
   ]
 }
