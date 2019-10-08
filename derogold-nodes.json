@@ -17,6 +17,12 @@
       "url": "46.214.70.196",
       "port": 6969,
       "ssl": false
+    },
+    {
+      "name": "FastPooL.XyZ public node", 
+      "url": "fastpool.xyz",
+      "port": 6969,
+      "ssl": false
     }
   ]
 }
