@@ -7,13 +7,7 @@
       "ssl": false
     },
     {
-      "name": "'CuvéeDEGO Node 02' public node",
-      "url": "cuveedego.czech.cloud",
-      "port": 6969,
-      "ssl": false
-    },
-    {
-      "name": "'CuvéeDEGO Node 03' public node", 
+      "name": "'CuvéeDEGO Node 02' public node", 
       "url": "46.214.70.196",
       "port": 6969,
       "ssl": false
