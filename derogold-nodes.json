@@ -4,37 +4,43 @@
       "name": "'CuvéeDEGO Node 01' public node",
       "url": "publicnode.ydns.eu",
       "port": 6969,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
       "name": "'CuvéeDEGO Node 02' public node", 
       "url": "46.214.70.196",
       "port": 6969,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
       "name": "faspool.xyz public node",
       "url": "130.185.202.159",
       "port": 6969,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
       "name": "h2853292.stratoserver.net",
       "url": "85.214.193.246",
       "port": 6969,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
       "name": "node.stx.nl",
       "url": "5.172.219.174",
       "port": 6969,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
       "name": "200-117-15-51.rev.cloud.scaleway.com",
       "url": "51.15.117.200",
       "port": 6969,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     }
   ]
 }
