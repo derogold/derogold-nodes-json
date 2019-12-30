@@ -1,15 +1,22 @@
 {
   "nodes": [
     {
-      "name": "'CuvéeDEGO Node 01' public node",
+      "name": "CuvéeDEGO CZPR01",
       "url": "publicnode.ydns.eu",
       "port": 6969,
       "ssl": false,
       "cache": false
     },
     {
-      "name": "'CuvéeDEGO Node 02' public node", 
+      "name": "CuvéeDEGO ROBN02", 
       "url": "46.214.70.196",
+      "port": 6969,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "CuvéeDEGO USEA02",
+      "url": "104.196.142.182",
       "port": 6969,
       "ssl": false,
       "cache": false
