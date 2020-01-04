@@ -43,6 +43,13 @@
       "cache": false
     },
     {
+      "name": "imhard4.men",
+      "url": "ilovedegobecause.imhard4.men",
+      "port": 6969,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "node.stx.nl",
       "url": "5.172.219.174",
       "port": 6969,
