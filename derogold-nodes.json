@@ -67,8 +67,13 @@
       "name": "200-117-15-51.rev.cloud.scaleway.com",
       "url": "51.15.117.200",
       "port": 6969,
-      "ssl": false,
-      "cache": false
+      "ssl": false
+    },
+    {
+      "name": "FastPooL.XyZ public node", 
+      "url": "fastpool.xyz",
+      "port": 6969,
+      "ssl": false
     }
   ]
 }
