@@ -27,6 +27,13 @@
       "port": 443,
       "ssl": true,
       "cache": true
-    }
+    },
+    {
+      "name": "Pangolin DEGO Node",
+      "url": "degonode.ydns.eu",
+      "port": "6969",
+      "ssl": false,
+      "cache": false
+    }	    
   ]
 }
