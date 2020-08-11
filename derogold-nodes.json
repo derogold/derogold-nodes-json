@@ -34,6 +34,13 @@
       "port": "6969",
       "ssl": false,
       "cache": false
-    }	    
+    },	
+    {
+      "name": "FileBay",
+      "url": "198.251.61.140",
+      "port": 6969,
+      "ssl": false,
+      "cache": false
+    }
   ]
 }
