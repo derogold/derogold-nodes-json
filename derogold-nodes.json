@@ -36,8 +36,8 @@
       "cache": false
     },	
     {
-      "name": "FileBay",
-      "url": "198.251.61.140",
+      "name": "FileBay [Canada]",
+      "url": "198.251.62.8",
       "port": 6969,
       "ssl": false,
       "cache": false
