@@ -34,13 +34,6 @@
       "port": "6969",
       "ssl": false,
       "cache": false
-    },	
-    {
-      "name": "FileBay [Canada]",
-      "url": "dego.filebay.org",
-      "port": 6969,
-      "ssl": false,
-      "cache": false
-    }
+    }	
   ]
 }
