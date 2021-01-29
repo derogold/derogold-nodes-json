@@ -2,7 +2,7 @@
   "nodes": [
     {
       "name": "CuvéeDEGO CZPR01",
-      "url": "publicnode.ydns.eu",
+      "url": "api.derogold4ever.online",
       "port": 6969,
       "ssl": false,
       "cache": false
