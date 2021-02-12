@@ -15,18 +15,18 @@
       "cache": false
     },
     {
-      "name": "Bot.Tips Blockchain Cache",
+      "name": "Bot.Tips",
       "url": "dego.bot.tips",
       "port": 80,
       "ssl": false,
-      "cache": true
+      "cache": false
     },
     {
-      "name": "Bot.Tips Blockchain Cache - SSL",
+      "name": "Bot.Tips - SSL",
       "url": "dego.bot.tips",
       "port": 443,
       "ssl": true,
-      "cache": true
+      "cache": false
     },
     {
       "name": "Pangolin DEGO Node",
