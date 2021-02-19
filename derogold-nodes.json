@@ -2,7 +2,7 @@
   "nodes": [
     {
       "name": "CuvéeDEGO CZPR01",
-      "url": "api.derogold4ever.online",
+      "url": "cz.derogold4ever.online",
       "port": 6969,
       "ssl": false,
       "cache": false
