@@ -9,17 +9,10 @@
     },
     {
       "name": "CuvéeDEGO ROBN02", 
-      "url": "derogold4ever.online",
-      "port": 6969,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "CuvéeDEGO ROBN03 Test",
-      "url": "46.214.70.197",
+      "url": "ro.derogold4ever.online",
       "port": 80,
       "ssl": false,
-      "cache": true
+      "cache": false
     },
     {
       "name": "Bot.Tips",
