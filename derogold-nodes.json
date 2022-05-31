@@ -10,7 +10,7 @@
     {
       "name": "CuvéeDEGO ROBN02", 
       "url": "ro.derogold4ever.online",
-      "port": 80,
+      "port": 6969,
       "ssl": false,
       "cache": false
     },
