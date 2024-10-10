@@ -1,17 +1,10 @@
 {
   "nodes": [
     {
-      "name": "CuvéeDEGO CZPR01",
-      "url": "cz.derogold4ever.online",
-      "port": 6969,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "CuvéeDEGO ROBN02", 
-      "url": "ro.derogold4ever.online",
-      "port": 6969,
-      "ssl": false,
+      "name": "CuveeCloud DeroGold",
+      "url": "derogold.cuvee.cloud",
+      "port": 443,
+      "ssl": true,
       "cache": false
     },
     {
@@ -27,13 +20,6 @@
       "port": 443,
       "ssl": true,
       "cache": false
-    },
-    {
-      "name": "Pangolin DEGO Node",
-      "url": "degonode.ydns.eu",
-      "port": "6969",
-      "ssl": false,
-      "cache": false
-    }	
+    }
   ]
 }
